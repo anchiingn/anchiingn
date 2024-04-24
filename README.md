@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Anchi Nguyen
 
-I am a Software Developer and a seasoned Illustrator. I enjoy combining the precision of a software engineer with the creativity of an illustrator to transform it into immersive digital experiences. My unique skill set allows me to bridge the gap between technical and creative aspects, facilitating effective collaboration and delivering captivating digital experiences that leave a lasting impact on users.
+I am a Software Developer and a seasoned Illustrator. I enjoy combining software engineer with the creativity of an illustrator to transform it into digital experiences. My unique skill allows me to bridge the gap between technical and creative aspects, facilitating effective collaboration and delivering captivating digital experiences that leave a lasting impact on users.
 
 ### Technologies used: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
