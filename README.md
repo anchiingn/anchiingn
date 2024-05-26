@@ -1,6 +1,12 @@
 ### Hi there 👋 My name is Anchi Nguyen
 
-I am a Software Developer and a seasoned Illustrator. I enjoy combining software engineer with the creativity of an illustrator to transform it into digital experiences. My unique skill allows me to bridge the gap between technical and creative aspects, facilitating effective collaboration and delivering captivating digital experiences that leave a lasting impact on users.
+I graduated from UofM with a graphic design major. I have done multiple graphic jobs. During my time at design jobs, I need to use html and css for editing. While learning basic coding for designers, I got interested in software development.
+ 
+My favorite part about the development process is seeing my ideas come to life. I love coming up with ideas, designing the UI using my graphic designer skills, and implementing it using my coding skills. I have done this with my StickyCat project, which is a full-stack application with React frontend and Python backend. 
+
+I’m very excited to take on new challenges and use my coding and designing skills to make an impact. 
+
+
 
 ### Technologies used: 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,21 +22,9 @@ I am a Software Developer and a seasoned Illustrator. I enjoy combining software
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anchiingn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Let Connect
 - [LinkedIn](https://www.linkedin.com/in/anchinguyen/)  
 
 
-<!--
-**anchiingn/anchiingn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
